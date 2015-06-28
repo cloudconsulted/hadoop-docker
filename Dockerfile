@@ -1,9 +1,9 @@
 # Creates pseudo distributed hadoop 2.7.0
-#
-# docker build -t sequenceiq/hadoop .
+# clone of sequenceiq/hadoop-docker
+# docker build -t cloudconsulted/hadoop-dockerbase .
 
 FROM sequenceiq/pam:centos-6.5
-MAINTAINER SequenceIQ
+MAINTAINER John Wooten @ CONSULTED <jwooten@cloudconsulted.com>
 
 USER root
 
