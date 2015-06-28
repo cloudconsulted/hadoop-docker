@@ -1,3 +1,5 @@
+_Note: this is a clone of sequenceiq/hadoop-docker for testing and demo build purposes_
+
 #Apache Hadoop 2.7.0 Docker image
 
 _Note: this is the master branch - for a particular Hadoop version always check the related branch_
