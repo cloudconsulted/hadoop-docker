@@ -1,3 +1,4 @@
+[<img src="http://www.cloudconsulted.com/images/site/logos/consulted-logox250.png" align="right">](http://cloudconsulted.com)
 _Note: this is a clone of sequenceiq/hadoop-docker for testing and demo build purposes_
 
 #Apache Hadoop 2.7.0 Docker image
